@@ -59,7 +59,7 @@ input:focus{
     cursor: pointer;
 }
 .btn:active{
-    background-color: rgb(108, 220, 108);
+    background-color: rgb(134, 216, 134);
 }
 
 /* .kard{
@@ -98,12 +98,12 @@ input:focus{
     padding-bottom: 20px;
     
 }
-.btn-del{
+.del_btn{
     align-self: flex-end;
     cursor: pointer;
     font-size: 20px;
     border-radius: 3px;
   }
-.btn-del:active{
+.del_btn:active{
     background-color: rgb(201, 200, 200);
 }
